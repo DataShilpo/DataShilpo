@@ -1,16 +1,18 @@
-# <Uttam Kumar Mandal>
+# Hi 👋, I'm Uttam Kumar Mandal
+### 🔭 Full-Stack & AI Engineer in the making | Building multi-tenant SaaS & RAG apps
 
-<img align="right" width="440" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=37DCF2&center=false&vCenter=false&random=false&width=440&lines=Full-Stack+Engineer;Type-Safe+Backend+Systems;Multi-Tenant+SaaS+Architecture;AI%2FLLM+Production+Systems;Shipping+software+AI+can't+replace" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=Full-Stack+Developer;AI+Engineering+%7C+RAG+%26+Agents;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL)](https://git.io/typing-svg)
 
-**Senior Full-Stack Software Engineer** · Dhaka, Bangladesh 🇧🇩
+---
+
+## 👨‍💻 About Me
+Senior Full-Stack Software Engineer · Dhaka, Bangladesh 🇧🇩
 
 I design and ship production-grade web platforms and AI-powered systems with a focus on type safety, scalable architecture, and operational reliability. My work spans the full stack — from PostgreSQL schema design and multi-tenant backend APIs through to Next.js frontends and Docker-based deployment pipelines — with a growing specialization in LLM applications, RAG, and agentic systems.
 
-> "Be the software developer AI can't easily replace." — I build systems where the value is in the architecture, the trade-offs, and the engineering judgment, not the boilerplate.
+"Be the software developer AI can't easily replace." — I build systems where the value is in the architecture, the trade-offs, and the engineering judgment, not the boilerplate.
 
-Currently **open to** senior full-stack and AI engineering roles, contract engagements, and technical consulting.
-
----
+Currently open to senior full-stack and AI engineering roles, contract engagements, and technical consulting.
 
 ## 🧭 Engineering Philosophy
 
